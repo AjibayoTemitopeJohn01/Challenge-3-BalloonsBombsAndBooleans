@@ -1,0 +1,2 @@
+# Challenge-3-BalloonsBombsAndBooleans
+ This is the second challenge in the course - Create with Code, Unit 3 - Basic Jump Force in Unity Projects. Where I applied my knowledge of physics, scrolling backgrounds, and special effects to a balloon floating through town, picking up tokens while avoiding explosives. I will have to do a lot of troubleshooting in this project because it is riddled with errors. 
